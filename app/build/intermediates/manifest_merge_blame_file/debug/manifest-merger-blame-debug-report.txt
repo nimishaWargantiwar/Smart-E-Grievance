@@ -1,0 +1,131 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="info.androidhive.loginandregistration"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:7:5-9:41
+8        android:minSdkVersion="23"
+8-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:8:9-35
+9        android:targetSdkVersion="31" />
+9-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:9:9-38
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:11:5-66
+11-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:11:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:12:5-78
+12-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:12:22-76
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:13:5-79
+13-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:13:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:14:5-80
+14-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:14:22-78
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:15:5-67
+15-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:15:22-65
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:16:5-79
+16-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:16:22-76
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:17:5-80
+17-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:17:22-78
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:18:5-75
+18-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:18:22-72
+19
+20    <uses-feature
+20-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:20:5-84
+21        android:name="android.hardware.camera"
+21-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:20:19-57
+22        android:required="true" />
+22-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:20:58-81
+23
+24    <application
+24-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:22:5-63:19
+25        android:name="info.androidhive.loginandregistration.app.AppController"
+25-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:23:9-79
+26        android:allowBackup="true"
+26-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:24:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.5.0] /Users/nimisha/.gradle/caches/transforms-3/eea25c4eb25adf6bd3a8787eaf8c19df/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:extractNativeLibs="false"
+30        android:icon="@drawable/ic_launcher"
+30-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:25:9-45
+31        android:label="@string/app_name"
+31-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:26:9-41
+32        android:theme="@style/AppTheme"
+32-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:28:9-40
+33        android:usesCleartextTraffic="true" >
+33-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:27:9-44
+34        <activity
+34-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:30:9-38:20
+35            android:name="info.androidhive.loginandregistration.activity.LoginActivity"
+35-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:31:13-51
+36            android:exported="true"
+36-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:33:13-36
+37            android:label="@string/app_name" >
+37-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:32:13-45
+38            <intent-filter>
+38-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:34:13-37:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:35:17-69
+39-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:35:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:36:17-77
+41-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:36:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:40:9-43:40
+45            android:name="info.androidhive.loginandregistration.activity.RegisterActivity"
+45-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:41:13-54
+46            android:exported="false"
+46-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:43:13-37
+47            android:label="@string/app_name" />
+47-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:42:13-45
+48        <activity
+48-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:44:9-47:40
+49            android:name="info.androidhive.loginandregistration.activity.viewComplaint"
+49-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:45:13-51
+50            android:exported="false"
+50-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:47:13-37
+51            android:label="@string/app_name" />
+51-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:46:13-45
+52        <activity
+52-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:48:9-51:40
+53            android:name="info.androidhive.loginandregistration.activity.Home"
+53-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:49:13-42
+54            android:exported="false"
+54-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:51:13-37
+55            android:label="@string/app_name" />
+55-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:50:13-45
+56        <activity
+56-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:52:9-55:40
+57            android:name="info.androidhive.loginandregistration.activity.MainActivity"
+57-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:53:13-50
+58            android:exported="false"
+58-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:55:13-37
+59            android:label="@string/app_name" />
+59-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:54:13-45
+60        <activity
+60-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:56:9-59:40
+61            android:name="info.androidhive.loginandregistration.activity.ViewProblem"
+61-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:57:13-49
+62            android:exported="false"
+62-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:59:13-37
+63            android:label="@string/app_name" />
+63-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:58:13-45
+64        <activity
+64-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:60:9-62:40
+65            android:name="info.androidhive.loginandregistration.activity.viewImpComplaint"
+65-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:61:13-54
+66            android:exported="false" />
+66-->/Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:62:13-37
+67    </application>
+68
+69</manifest>

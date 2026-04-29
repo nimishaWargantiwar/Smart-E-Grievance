@@ -1,0 +1,291 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:2:1-65:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/nimisha/.gradle/caches/transforms-3/79ce6d4daa2c102c56647fb8c308971b/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/nimisha/.gradle/caches/transforms-3/f1fcb3f58e1ff55d9f144f3493f1133c/transformed/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/nimisha/.gradle/caches/transforms-3/43c21d766f0994816bb2c5e742c35610/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/070a3bc1dd1ba088fc9fa6f6abec083b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/5a642ec2db1dd60720c79cacbff5aabc/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/624474dd35620871dd5964d6ec1936eb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/e10540f7c5c7d44cae7c40455d7b55f2/transformed/jetified-library-aar-1.0.0/AndroidManifest.xml:1:70-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/00be6921c1c5295f00003ca211340dcc/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nimisha/.gradle/caches/transforms-3/3c81f21af0d5e287f7ff7c24b8e7d969/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/nimisha/.gradle/caches/transforms-3/d0035e4ed0d757a633484e0b048fc3d4/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/nimisha/.gradle/caches/transforms-3/11ab9f2e490981c382e0277311d498c6/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/cc5cfb26be6a6fb771a32b4ba0f42d97/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/f9c015b888e4638d93ce38f7701e7b4e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/nimisha/.gradle/caches/transforms-3/a9527e61a28fdbf10b7a27e312e335ff/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/8d47ccb48ce7f747792df21a8b4c73bb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/028cf73cec54ea3bf84e54fdd14f52cd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/bd379ac5869e7724356565f4d59d5788/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/05b541c8f8c5d574791cb049262c21a9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/5adcc9c1a85c294384d4e25d405de55a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/5c249c4cf5dedf91fb1f653afe1451e4/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/32d075f520b346d4e6d18d2df0605e3b/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/e77f4c965977b4e60f940e2e4da7b2f8/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/d1ee9137d0ff89b4cfea683d02b68de0/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/22ebbb571bc58eea75364bdbedadbfeb/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/eecd97bc93feb5d8bdac02b4a748fa74/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/nimisha/.gradle/caches/transforms-3/eea25c4eb25adf6bd3a8787eaf8c19df/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/49706dd1538ec8016362b8f30f6430f1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nimisha/.gradle/caches/transforms-3/d01814f699997010d4a2befc36e1af04/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/c57e5a4598ae280e9371e74e7bd5e04d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/nimisha/.gradle/caches/transforms-3/1824ca1b93deddf0a74b48f8b558f226/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/nimisha/.gradle/caches/transforms-3/35df43403771ad0685bb70d29af339cd/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/1afde8aaa55db442acb46f7e855d0a80/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nimisha/.gradle/caches/transforms-3/feeb297f8120763f550cd5c2fa4eea82/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/f6030158dc027178d3e1d6bd31b51e37/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nimisha/.gradle/caches/transforms-3/d28792449f0b66526b93b07dea845120/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nimisha/.gradle/caches/transforms-3/a28440300cf663201c4aadc4e355ef29/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nimisha/.gradle/caches/transforms-3/693274bad28bd08bf7ddde8dc746d4f2/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/72393bfd96236ae23bfcfa86653818dd/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/01fb0dacfba0d886162b35f0c3449c35/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/743af1ad9d1680d22f162b31fd7d3581/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/c8f6558e221bf972772704797f0b6d31/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/78f1310810488a12b16d18c5bc9c9d1d/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/nimisha/.gradle/caches/transforms-3/79ce6d4daa2c102c56647fb8c308971b/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/nimisha/.gradle/caches/transforms-3/79ce6d4daa2c102c56647fb8c308971b/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/nimisha/.gradle/caches/transforms-3/f1fcb3f58e1ff55d9f144f3493f1133c/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/nimisha/.gradle/caches/transforms-3/f1fcb3f58e1ff55d9f144f3493f1133c/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/nimisha/.gradle/caches/transforms-3/43c21d766f0994816bb2c5e742c35610/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/nimisha/.gradle/caches/transforms-3/43c21d766f0994816bb2c5e742c35610/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/070a3bc1dd1ba088fc9fa6f6abec083b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/070a3bc1dd1ba088fc9fa6f6abec083b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/5a642ec2db1dd60720c79cacbff5aabc/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/5a642ec2db1dd60720c79cacbff5aabc/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/624474dd35620871dd5964d6ec1936eb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/624474dd35620871dd5964d6ec1936eb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/e10540f7c5c7d44cae7c40455d7b55f2/transformed/jetified-library-aar-1.0.0/AndroidManifest.xml:3:5-72
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/e10540f7c5c7d44cae7c40455d7b55f2/transformed/jetified-library-aar-1.0.0/AndroidManifest.xml:3:5-72
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/00be6921c1c5295f00003ca211340dcc/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/00be6921c1c5295f00003ca211340dcc/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nimisha/.gradle/caches/transforms-3/3c81f21af0d5e287f7ff7c24b8e7d969/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nimisha/.gradle/caches/transforms-3/3c81f21af0d5e287f7ff7c24b8e7d969/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/nimisha/.gradle/caches/transforms-3/d0035e4ed0d757a633484e0b048fc3d4/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/nimisha/.gradle/caches/transforms-3/d0035e4ed0d757a633484e0b048fc3d4/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/nimisha/.gradle/caches/transforms-3/11ab9f2e490981c382e0277311d498c6/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/nimisha/.gradle/caches/transforms-3/11ab9f2e490981c382e0277311d498c6/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/cc5cfb26be6a6fb771a32b4ba0f42d97/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/cc5cfb26be6a6fb771a32b4ba0f42d97/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/f9c015b888e4638d93ce38f7701e7b4e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/f9c015b888e4638d93ce38f7701e7b4e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/nimisha/.gradle/caches/transforms-3/a9527e61a28fdbf10b7a27e312e335ff/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/nimisha/.gradle/caches/transforms-3/a9527e61a28fdbf10b7a27e312e335ff/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/8d47ccb48ce7f747792df21a8b4c73bb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/8d47ccb48ce7f747792df21a8b4c73bb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/028cf73cec54ea3bf84e54fdd14f52cd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/028cf73cec54ea3bf84e54fdd14f52cd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/bd379ac5869e7724356565f4d59d5788/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/bd379ac5869e7724356565f4d59d5788/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/05b541c8f8c5d574791cb049262c21a9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/05b541c8f8c5d574791cb049262c21a9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/5adcc9c1a85c294384d4e25d405de55a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/5adcc9c1a85c294384d4e25d405de55a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/5c249c4cf5dedf91fb1f653afe1451e4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/5c249c4cf5dedf91fb1f653afe1451e4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/32d075f520b346d4e6d18d2df0605e3b/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/32d075f520b346d4e6d18d2df0605e3b/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/e77f4c965977b4e60f940e2e4da7b2f8/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/e77f4c965977b4e60f940e2e4da7b2f8/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/d1ee9137d0ff89b4cfea683d02b68de0/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/d1ee9137d0ff89b4cfea683d02b68de0/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/22ebbb571bc58eea75364bdbedadbfeb/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/22ebbb571bc58eea75364bdbedadbfeb/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/eecd97bc93feb5d8bdac02b4a748fa74/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/eecd97bc93feb5d8bdac02b4a748fa74/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/nimisha/.gradle/caches/transforms-3/eea25c4eb25adf6bd3a8787eaf8c19df/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/nimisha/.gradle/caches/transforms-3/eea25c4eb25adf6bd3a8787eaf8c19df/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/49706dd1538ec8016362b8f30f6430f1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/49706dd1538ec8016362b8f30f6430f1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nimisha/.gradle/caches/transforms-3/d01814f699997010d4a2befc36e1af04/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nimisha/.gradle/caches/transforms-3/d01814f699997010d4a2befc36e1af04/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/c57e5a4598ae280e9371e74e7bd5e04d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nimisha/.gradle/caches/transforms-3/c57e5a4598ae280e9371e74e7bd5e04d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/nimisha/.gradle/caches/transforms-3/1824ca1b93deddf0a74b48f8b558f226/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/nimisha/.gradle/caches/transforms-3/1824ca1b93deddf0a74b48f8b558f226/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/nimisha/.gradle/caches/transforms-3/35df43403771ad0685bb70d29af339cd/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/nimisha/.gradle/caches/transforms-3/35df43403771ad0685bb70d29af339cd/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/1afde8aaa55db442acb46f7e855d0a80/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/1afde8aaa55db442acb46f7e855d0a80/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nimisha/.gradle/caches/transforms-3/feeb297f8120763f550cd5c2fa4eea82/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nimisha/.gradle/caches/transforms-3/feeb297f8120763f550cd5c2fa4eea82/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/f6030158dc027178d3e1d6bd31b51e37/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/f6030158dc027178d3e1d6bd31b51e37/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nimisha/.gradle/caches/transforms-3/d28792449f0b66526b93b07dea845120/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nimisha/.gradle/caches/transforms-3/d28792449f0b66526b93b07dea845120/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nimisha/.gradle/caches/transforms-3/a28440300cf663201c4aadc4e355ef29/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nimisha/.gradle/caches/transforms-3/a28440300cf663201c4aadc4e355ef29/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nimisha/.gradle/caches/transforms-3/693274bad28bd08bf7ddde8dc746d4f2/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nimisha/.gradle/caches/transforms-3/693274bad28bd08bf7ddde8dc746d4f2/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/72393bfd96236ae23bfcfa86653818dd/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/72393bfd96236ae23bfcfa86653818dd/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/01fb0dacfba0d886162b35f0c3449c35/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/01fb0dacfba0d886162b35f0c3449c35/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/743af1ad9d1680d22f162b31fd7d3581/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/743af1ad9d1680d22f162b31fd7d3581/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/c8f6558e221bf972772704797f0b6d31/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/c8f6558e221bf972772704797f0b6d31/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/78f1310810488a12b16d18c5bc9c9d1d/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/78f1310810488a12b16d18c5bc9c9d1d/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:18:22-72
+uses-feature#android.hardware.camera
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:20:5-84
+	android:required
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:20:58-81
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:20:19-57
+application
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:22:5-63:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/nimisha/.gradle/caches/transforms-3/79ce6d4daa2c102c56647fb8c308971b/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/nimisha/.gradle/caches/transforms-3/79ce6d4daa2c102c56647fb8c308971b/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/nimisha/.gradle/caches/transforms-3/f1fcb3f58e1ff55d9f144f3493f1133c/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/nimisha/.gradle/caches/transforms-3/f1fcb3f58e1ff55d9f144f3493f1133c/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/e10540f7c5c7d44cae7c40455d7b55f2/transformed/jetified-library-aar-1.0.0/AndroidManifest.xml:5:5-19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/nimisha/.gradle/caches/transforms-3/e10540f7c5c7d44cae7c40455d7b55f2/transformed/jetified-library-aar-1.0.0/AndroidManifest.xml:5:5-19
+MERGED from [androidx.core:core:1.5.0] /Users/nimisha/.gradle/caches/transforms-3/eea25c4eb25adf6bd3a8787eaf8c19df/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/nimisha/.gradle/caches/transforms-3/eea25c4eb25adf6bd3a8787eaf8c19df/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nimisha/.gradle/caches/transforms-3/feeb297f8120763f550cd5c2fa4eea82/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nimisha/.gradle/caches/transforms-3/feeb297f8120763f550cd5c2fa4eea82/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/nimisha/.gradle/caches/transforms-3/eea25c4eb25adf6bd3a8787eaf8c19df/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:25:9-45
+	android:allowBackup
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:28:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:27:9-44
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:23:9-79
+activity#info.androidhive.loginandregistration.activity.LoginActivity
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:32:13-45
+	android:exported
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:31:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:36:27-74
+activity#info.androidhive.loginandregistration.activity.RegisterActivity
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:40:9-43:40
+	android:label
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:42:13-45
+	android:exported
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:41:13-54
+activity#info.androidhive.loginandregistration.activity.viewComplaint
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:44:9-47:40
+	android:label
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:46:13-45
+	android:exported
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:45:13-51
+activity#info.androidhive.loginandregistration.activity.Home
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:48:9-51:40
+	android:label
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:50:13-45
+	android:exported
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:49:13-42
+activity#info.androidhive.loginandregistration.activity.MainActivity
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:52:9-55:40
+	android:label
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:54:13-45
+	android:exported
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:53:13-50
+activity#info.androidhive.loginandregistration.activity.ViewProblem
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:56:9-59:40
+	android:label
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:58:13-45
+	android:exported
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:59:13-37
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:57:13-49
+activity#info.androidhive.loginandregistration.activity.viewImpComplaint
+ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:60:9-62:40
+	android:exported
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from /Users/nimisha/Downloads/Smart-E-Grievance-master/app/src/main/AndroidManifest.xml:61:13-54
